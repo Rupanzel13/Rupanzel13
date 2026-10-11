@@ -8,7 +8,7 @@ I'm passionate about continuous learning, improving IT processes, and developing
 - **IT Support:** Windows troubleshooting, hardware diagnostics, networking, remote support
 - **Microsoft 365:** Entra ID, Teams, SharePoint, Microsoft 365 administration
 - **Systems Administration:** Windows, Linux, virtualization, SSH
-- **IT Service Management:** ITIL 4 Foundation, incident management, asset lifecycle management
+- **IT Service Management:** ITIL Foundation (Version 5), incident management, asset lifecycle management
 - **Data & Automation:** Excel, Power BI, Power Automate, PowerShell and Bash (learning and practice)
 
 ### 📚 Currently Learning
